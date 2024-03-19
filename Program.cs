@@ -6,7 +6,7 @@
         private string fileName;
         public void Open()
         {
-            throw new NotImplementedException();
+            File.ReadAllText(fileName);
         }
     }
     public class Project

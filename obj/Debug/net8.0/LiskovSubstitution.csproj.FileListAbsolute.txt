@@ -1,0 +1,15 @@
+C:\Users\ahmad\Desktop\Tarteeb 7\LiskovSubstitution\bin\Debug\net8.0\LiskovSubstitution.exe
+C:\Users\ahmad\Desktop\Tarteeb 7\LiskovSubstitution\bin\Debug\net8.0\LiskovSubstitution.deps.json
+C:\Users\ahmad\Desktop\Tarteeb 7\LiskovSubstitution\bin\Debug\net8.0\LiskovSubstitution.runtimeconfig.json
+C:\Users\ahmad\Desktop\Tarteeb 7\LiskovSubstitution\bin\Debug\net8.0\LiskovSubstitution.dll
+C:\Users\ahmad\Desktop\Tarteeb 7\LiskovSubstitution\bin\Debug\net8.0\LiskovSubstitution.pdb
+C:\Users\ahmad\Desktop\Tarteeb 7\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\Desktop\Tarteeb 7\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.AssemblyInfoInputs.cache
+C:\Users\ahmad\Desktop\Tarteeb 7\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.AssemblyInfo.cs
+C:\Users\ahmad\Desktop\Tarteeb 7\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Desktop\Tarteeb 7\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.sourcelink.json
+C:\Users\ahmad\Desktop\Tarteeb 7\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.dll
+C:\Users\ahmad\Desktop\Tarteeb 7\LiskovSubstitution\obj\Debug\net8.0\refint\LiskovSubstitution.dll
+C:\Users\ahmad\Desktop\Tarteeb 7\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.pdb
+C:\Users\ahmad\Desktop\Tarteeb 7\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.genruntimeconfig.cache
+C:\Users\ahmad\Desktop\Tarteeb 7\LiskovSubstitution\obj\Debug\net8.0\ref\LiskovSubstitution.dll
