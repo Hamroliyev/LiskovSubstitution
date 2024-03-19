@@ -1,1 +1,1 @@
-# LiskobSubstitution
+# LiskovSubstitution
