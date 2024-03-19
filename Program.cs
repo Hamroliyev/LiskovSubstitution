@@ -1,4 +1,4 @@
-﻿namespace LiskobSubstitution
+﻿namespace LiskovSubstitution
 {
     public class Document
     {
@@ -44,5 +44,4 @@
             Console.WriteLine("Hello Worlds");
         }
     }
-    
 }
