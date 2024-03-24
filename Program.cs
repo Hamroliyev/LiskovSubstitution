@@ -1,47 +1,17 @@
-﻿namespace LiskovSubstitution
-{
-    public class Document
-    {
-        private string data;
-        private string fileName;
-        public void Open()
-        {
-            File.ReadAllText(fileName);
-        }
-    }
-    public class Project
-    {
-        private List<Document> allDocs;
-        private List<WritableDocument> writableDocuments;
-        public void OpenAll()
-        {
-            foreach (Document document in allDocs)
-            {
-                document.Open();
-            }
-        }
-        
-        public void SaveAll()
-        {
-            foreach (WritableDocument document in writableDocuments)
-            {
-                document.Save();
-            }
-        }
+﻿using LiskovSubstitution.Services;
 
-    }
-    public class WritableDocument : Document
-    {
-        public void Save()
-        {
-            throw new Exception("Unable to save read-only file.");
-        }
-    }
+namespace LiskovSubstitution
+{
     public class Program
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello Worlds");
+            Document document = new Document("../../../Assets/data.txt");
+            WritableDocument writableDocument = new WritableDocument("../../../Assets/data2.txt");
+            Project project = new Project();
+            project.AddDocument(document);
+            project.AddDocument(writableDocument);
+            project.SaveAll();
         }
     }
 }
